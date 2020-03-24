@@ -7,3 +7,4 @@
 * [Infographics](https://www.easel.ly/)
 * [Images](https://www.freepik.com/)
 * [Animation](https://wave.video/)
+* [Icons](http://www.iconarchive.com/)
