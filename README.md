@@ -1,4 +1,4 @@
-# Design
+# Useful links
 
 * [Photos and Pictures](https://www.pexels.com/ru-ru/) 
 * [Color schemes](https://coolors.co/)
